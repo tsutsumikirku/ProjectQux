@@ -72,3 +72,7 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Qux/Content/StarterContent/
+Qux/Intermediate/
+Qux/Binaries/Win64/QuxEditor.target
+Qux/Binaries/
